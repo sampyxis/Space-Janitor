@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "07a7ab6f-2d4d-4e5b-bab9-631cc0cf7438",
+            "Value": {
+                "id": "0fe26f95-cdc2-4f80-a203-c7158c873afc",
+                "resourcePath": "objects\\objLighting\\objLighting.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07f5a637-43fb-47b3-86c1-f22f11f33546",
             "Value": {
                 "id": "fa2eee4a-d1ee-49d2-a21b-7e8a21e1c8c2",
@@ -103,6 +111,22 @@
             }
         },
         {
+            "Key": "0f49414b-76f3-4990-aed4-102b6fe95b45",
+            "Value": {
+                "id": "8c8ea4fa-5ba0-45d2-923f-78c8e101459a",
+                "resourcePath": "sprites\\sprTestPipeTop\\sprTestPipeTop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "107c6b85-8135-4b6f-aea2-d0257195d651",
+            "Value": {
+                "id": "d932ac5e-7045-4f8d-8d4c-f1850026b722",
+                "resourcePath": "sprites\\sprLight\\sprLight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1245a28f-28f3-4278-90aa-a19b5f17553b",
             "Value": {
                 "id": "ee67d0ad-82df-4cd2-9202-e791155d60b9",
@@ -127,6 +151,14 @@
             }
         },
         {
+            "Key": "1b7bfbd7-5596-4181-ad66-34f0eb467e99",
+            "Value": {
+                "id": "8912062e-3fa7-4a7e-9d71-6a286eac9358",
+                "resourcePath": "tilesets\\tSpace\\tSpace.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "21fc2b22-6bae-4fe1-bd73-fc7a62a3b168",
             "Value": {
                 "id": "013b0ced-62d1-4f1b-ada0-4186ba20beed",
@@ -140,6 +172,22 @@
                 "id": "54218cc7-ad97-4b48-a343-a6247c287fbe",
                 "resourcePath": "views\\2c721048-110c-4375-a08a-c6afa7dcb392.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "330d89ee-255e-4836-87a0-6fdb98994e39",
+            "Value": {
+                "id": "67061efd-01a6-4f22-8796-13e9915d0f10",
+                "resourcePath": "sprites\\sprSewerLight\\sprSewerLight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "35f4f33b-acc8-4db7-8374-248cdc29934b",
+            "Value": {
+                "id": "6e19a37e-8fb0-41e7-a8b4-4633a2d71598",
+                "resourcePath": "sprites\\sprSewerBlockLarge\\sprSewerBlockLarge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +239,14 @@
             }
         },
         {
+            "Key": "4a188bee-ffb2-4a3c-a7c6-e4337262ca06",
+            "Value": {
+                "id": "e5381601-c9b4-414f-927f-587db7f281b1",
+                "resourcePath": "sprites\\sprSewerBlock\\sprSewerBlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4f3be53d-6854-4cc9-a54d-dd9a90817517",
             "Value": {
                 "id": "69c98e6d-6eb3-403e-a53e-2a943cfec7de",
@@ -223,6 +279,14 @@
             }
         },
         {
+            "Key": "583fdc9d-7463-45a2-a7cf-314bd05749f8",
+            "Value": {
+                "id": "6b2d2786-f034-4480-836d-efa13a72e30b",
+                "resourcePath": "sprites\\sprTestPipeTop2\\sprTestPipeTop2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a978f33-32dd-4b53-98b4-47ffaaf8a93f",
             "Value": {
                 "id": "666f0d3c-a04c-475a-a76e-afe6597d2797",
@@ -231,10 +295,26 @@
             }
         },
         {
+            "Key": "6c09d116-742d-4d66-8e7f-cd32018b4c85",
+            "Value": {
+                "id": "d60286d0-ccdc-421b-b677-ca8ecb5be467",
+                "resourcePath": "sprites\\sprTestPipe\\sprTestPipe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d3076e1-b70d-4436-927f-6c582dd58933",
             "Value": {
                 "id": "c5e98909-10e0-4e58-bcfc-d876b0d1ce32",
                 "resourcePath": "objects\\objJumpThrough\\objJumpThrough.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6e17cbcd-0b29-4f7d-a011-504e17c7470d",
+            "Value": {
+                "id": "8139b7ef-e269-4879-b72b-4c49d0dd7685",
+                "resourcePath": "objects\\objSewerBlock\\objSewerBlock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,6 +375,30 @@
             }
         },
         {
+            "Key": "89dd0bdb-687f-4085-bbc9-b751e4ba11dc",
+            "Value": {
+                "id": "c66192e6-54f5-4b21-88fa-63f468a96f86",
+                "resourcePath": "sprites\\sprBlockGeneric\\sprBlockGeneric.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d84ede0-dd88-4980-a4ef-d05fa469e2f4",
+            "Value": {
+                "id": "184f94aa-04a3-4867-9e73-a4ef9a826f3f",
+                "resourcePath": "objects\\objLight\\objLight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "906aab6e-7819-4721-96af-595d3380bdd9",
+            "Value": {
+                "id": "a04e5f04-4974-4383-810d-64b1f3fea2a4",
+                "resourcePath": "objects\\objBlockInvisible\\objBlockInvisible.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9100c965-9f00-4f18-b950-b10af353b7ad",
             "Value": {
                 "id": "ffb23e54-5b44-49a2-951f-cd4f3fc7ec6b",
@@ -316,6 +420,14 @@
                 "id": "f2a93fcc-fc27-416f-a47b-4a3dc525667a",
                 "resourcePath": "objects\\objFxRoomRestart\\objFxRoomRestart.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "993cf63a-6e51-43bc-8857-e554e9e58a9d",
+            "Value": {
+                "id": "17cc5158-efde-4d68-b87d-f4bacd4f369a",
+                "resourcePath": "sprites\\sprSpaceTiles\\sprSpaceTiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -415,6 +527,14 @@
             }
         },
         {
+            "Key": "c99e896b-cb98-4c82-9f09-73b6dbb46bb5",
+            "Value": {
+                "id": "b3092222-6ee2-43b4-9a1a-6716d81e0054",
+                "resourcePath": "objects\\objCamera\\objCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb488478-ce63-4ba8-bccd-58cd973a868f",
             "Value": {
                 "id": "5ac8f51c-b38b-464a-acaf-6bbac184d9c5",
@@ -435,6 +555,14 @@
             "Value": {
                 "id": "0e3e0cba-e592-453c-b55e-e161e52e01d0",
                 "resourcePath": "sprites\\sprPlayerTemp\\sprPlayerTemp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ccbaf4a0-57c3-489e-8e09-a300f724333c",
+            "Value": {
+                "id": "8fb7e3a6-592f-4a7b-8da5-3b6c0aca3255",
+                "resourcePath": "sprites\\sprTestPipe2\\sprTestPipe2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -484,6 +612,22 @@
                 "id": "1b71709b-217f-4ff6-89ba-7e89dc49898d",
                 "resourcePath": "scripts\\scrPlaceMeetingException\\scrPlaceMeetingException.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e4e3819b-530c-424e-a7d9-7e57a545448c",
+            "Value": {
+                "id": "4c11f8c2-b688-473e-b20a-2d8cd10ff4b5",
+                "resourcePath": "views\\e4e3819b-530c-424e-a7d9-7e57a545448c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ebb1c036-1f62-4609-83fb-aa761bdfceed",
+            "Value": {
+                "id": "1cdf2ac4-47da-4bf6-a947-af68c6c36c4c",
+                "resourcePath": "objects\\objSewerLight\\objSewerLight.yy",
+                "resourceType": "GMObject"
             }
         },
         {

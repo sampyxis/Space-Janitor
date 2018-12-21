@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "11d22cf5-f940-47d6-9b0d-3866de2b315c",
+            "Value": {
+                "id": "c422a5ee-aca6-4b46-8133-676030c44817",
+                "resourcePath": "sprites\\sprTestPipeDownL\\sprTestPipeDownL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1245a28f-28f3-4278-90aa-a19b5f17553b",
             "Value": {
                 "id": "ee67d0ad-82df-4cd2-9202-e791155d60b9",
@@ -164,6 +172,14 @@
                 "id": "013b0ced-62d1-4f1b-ada0-4186ba20beed",
                 "resourcePath": "scripts\\scrDrawSpriteSkew\\scrDrawSpriteSkew.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "25504ec3-25b2-4864-954d-731b09824784",
+            "Value": {
+                "id": "f8f0d325-6af9-4c0c-807c-797c570cc948",
+                "resourcePath": "paths\\ptMovingPlatform\\ptMovingPlatform.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "87accd14-aa96-498f-9ad7-1cb176851891",
+            "Value": {
+                "id": "2b032464-6cb6-40ab-bbc7-7b313b0e7080",
+                "resourcePath": "sprites\\sprTestPipeDownR\\sprTestPipeDownR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8849aad8-4595-4b26-82fa-161c64ad7fab",
             "Value": {
                 "id": "676d9d6f-3f60-4a30-ad4c-c96642331dcd",
@@ -379,6 +403,14 @@
             "Value": {
                 "id": "c66192e6-54f5-4b21-88fa-63f468a96f86",
                 "resourcePath": "sprites\\sprBlockGeneric\\sprBlockGeneric.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8c363687-2c92-4d49-a884-a2d5e1ebfe4e",
+            "Value": {
+                "id": "713312ff-66d7-43d0-a7d7-7beaaa6812eb",
+                "resourcePath": "sprites\\sprTestPipeDownL2\\sprTestPipeDownL2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -435,6 +467,14 @@
             "Value": {
                 "id": "5df7dcd9-442e-4ca7-b975-8f48896077b4",
                 "resourcePath": "sprites\\sprCoin\\sprCoin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b5fbd42-fea5-4496-9a9c-3891e1b8bd45",
+            "Value": {
+                "id": "800310b4-a6fe-4c97-975d-5ea00a73c6cb",
+                "resourcePath": "sprites\\sprBlockMovable\\sprBlockMovable.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -543,6 +583,14 @@
             }
         },
         {
+            "Key": "cbea9e3e-c8a4-4a3c-8707-8879225a21eb",
+            "Value": {
+                "id": "acbf9350-b0b4-4c38-a438-93a964b00291",
+                "resourcePath": "objects\\objMovParent\\objMovParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7786ac26-4f6e-4fb1-92fe-15b3f3d495b8",
@@ -591,6 +639,14 @@
             }
         },
         {
+            "Key": "d3f8a368-e19d-46ff-aa9f-3f9786e5c236",
+            "Value": {
+                "id": "46b557d3-21a9-4e34-9dde-6e572200a339",
+                "resourcePath": "sprites\\sprTestPipeDownR2\\sprTestPipeDownR2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d4c31453-a304-4a1f-bead-f24ae6edd638",
             "Value": {
                 "id": "0358554e-9dee-42e6-ab2a-a697ca679153",
@@ -636,6 +692,14 @@
                 "id": "7793a116-83a3-4b66-bba6-748236b1651e",
                 "resourcePath": "scripts\\scrEntityStep\\scrEntityStep.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ee457bad-552f-42ea-ad94-aeb98db213fb",
+            "Value": {
+                "id": "ffe906a5-7eb4-4654-bab8-f4ef8ea22288",
+                "resourcePath": "objects\\objMovableBlock\\objMovableBlock.yy",
+                "resourceType": "GMObject"
             }
         },
         {

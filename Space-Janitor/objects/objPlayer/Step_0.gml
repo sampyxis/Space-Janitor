@@ -7,11 +7,11 @@ var kLeft, kRight, kUp, kDown, kJump, kJumpRelease, kAction, kBlock, kRollL, kRo
 
 kLeft        = keyboard_check(vk_left)  || gamepad_axis_value(0, gp_axislh) < -0.4;
 kRight       = keyboard_check(vk_right) || gamepad_axis_value(0, gp_axislh) >  0.4;
-kUp          = keyboard_check(vk_up)    || gamepad_axis_value(0, gp_axislv) < -0.4;
+//kUp          = keyboard_check(vk_up)    || gamepad_axis_value(0, gp_axislv) < -0.4;
 kDown        = keyboard_check(vk_down)  || gamepad_axis_value(0, gp_axislv) >  0.4;
 
-kJump        = keyboard_check_pressed(ord("Z")) || keyboard_check_pressed(ord("Y"))  || gamepad_button_check_pressed(0, gp_face1);
-kJumpRelease = keyboard_check_released(ord("Z")) || keyboard_check_released(ord("Y")) || gamepad_button_check_released(0, gp_face1);
+kJump        = keyboard_check_pressed(ord("Z")) || keyboard_check_pressed(ord("Y")) ||  keyboard_check(vk_up)  || gamepad_button_check_pressed(0, gp_face1);
+kJumpRelease = keyboard_check_released(ord("Z")) || keyboard_check_released(ord("Y")) ||  keyboard_check_released(vk_up) || gamepad_button_check_released(0, gp_face1);
 
 kAction      = keyboard_check_pressed(ord("X")) || keyboard_check_pressed(vk_space) || gamepad_button_check_pressed(0, gp_face3);
 kBlock       = keyboard_check(ord("C"))          || gamepad_button_check(0, gp_face2);

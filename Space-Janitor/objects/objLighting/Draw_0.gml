@@ -21,7 +21,8 @@ else
 	var _cy = camera_get_view_y(view_camera[0]);
 	surface_set_target(surf);
 	draw_set_color(c_black);
-	draw_set_alpha(0.8);
+	// Higher number makes it darker
+	draw_set_alpha(0.6);
 	draw_rectangle(0, 0, _cw, _ch, 0);
 	gpu_set_blendmode(bm_subtract);
 	with (objLight)
@@ -33,6 +34,8 @@ else
 			case objSewerLight:
 			    draw_sprite_ext(sprLight, 0, x - _cx, y - _cy, 0.5 + random(0.05), 0.5 + random(0.05), 0, c_white, 1);
 			    break;
+			case objSmallLight:
+				draw_sprite_ext(sprSmallLight, 0, x- _cx, y - _cy, 0.5 , 0.5 , 0, $FFF899, 0.6);
 			//case oGhost:
 			//    draw_sprite_ext(sLight, 0, x + _sw - _cx, y + _sh - _cy, 0.75, 0.75, 0, c_white, 1);
 			//    break;

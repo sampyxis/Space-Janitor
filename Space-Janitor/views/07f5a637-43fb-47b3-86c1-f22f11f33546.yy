@@ -13,7 +13,8 @@
         "5261f999-10f9-406f-9b09-1b83f9987fa4",
         "ebb1c036-1f62-4609-83fb-aa761bdfceed",
         "906aab6e-7819-4721-96af-595d3380bdd9",
-        "ee457bad-552f-42ea-ad94-aeb98db213fb"
+        "ee457bad-552f-42ea-ad94-aeb98db213fb",
+        "8a3eedf8-87ae-44c7-9c7e-07e1af007af9"
     ],
     "filterType": "GMObject",
     "folderName": "MapItems",
